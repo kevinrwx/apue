@@ -1,2 +1,2 @@
 # apue
-It includes some sample codes of AUPE
+It includes some sample codes of APUE
